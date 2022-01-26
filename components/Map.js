@@ -35,7 +35,11 @@ export default function Map() {
       v-70
       a0,0 0 0 1 0,-0
       z
-  " fill="#FFF"></path><g data-fnb-journey="003"><svg x="26" y="7" origin="" width="34" height="34" viewBox="0 0 34 34" fill="none"><path d="M17 34C26.3888 34 34 26.3888 34 17C34 7.61116 26.3888 0 17 0C7.61116 0 0 7.61116 0 17C0 26.3888 7.61116 34 17 34Z" fill="#69D1AF"></path><path d="M17 29C23.6274 29 29 23.6274 29 17C29 10.3726 23.6274 5 17 5C10.3726 5 5 10.3726 5 17C5 23.6274 10.3726 29 17 29Z" fill="#56BA96" stroke="#4B9B7C" stroke-width="0.1" stroke-miterlimit="10"></path><path d="M28.9902 16.9967C28.9902 13.9798 27.8717 11.2229 26.0338 9.11426C27.227 10.9771 27.9216 13.1926 27.9216 15.572C27.9216 22.1971 22.5503 27.5684 15.9252 27.5684C12.317 27.5684 9.08636 25.9727 6.88867 23.4544C9.01868 26.7848 12.748 28.9932 16.9937 28.9932C23.6224 28.9932 28.9902 23.6218 28.9902 16.9967Z" fill="#4B9B7C"></path><text x="50%" y="50%" font-size="11px" font-weight="500" dominant-baseline="central" text-anchor="middle" fill="white" font-family="Spoqa Han Sans Neo">3</text></svg><text x="50%" y="56" dominant-baseline="central" text-anchor="middle" class="sc-gXRojI bXtZiB">시제품 개발</text></g></svg><svg x="251.25" y="0" width="83.75" height="70"><path d="
+  " fill="#FFF"></path><g data-fnb-journey="003">
+    <a data-fnb-journey="anchor 테스트버튼">
+      <svg x="26" y="7" origin="" width="34" height="34" viewBox="0 0 34 34" fill="none"><path d="M17 34C26.3888 34 34 26.3888 34 17C34 7.61116 26.3888 0 17 0C7.61116 0 0 7.61116 0 17C0 26.3888 7.61116 34 17 34Z" fill="#69D1AF"></path><path d="M17 29C23.6274 29 29 23.6274 29 17C29 10.3726 23.6274 5 17 5C10.3726 5 5 10.3726 5 17C5 23.6274 10.3726 29 17 29Z" fill="#56BA96" stroke="#4B9B7C" stroke-width="0.1" stroke-miterlimit="10"></path><path d="M28.9902 16.9967C28.9902 13.9798 27.8717 11.2229 26.0338 9.11426C27.227 10.9771 27.9216 13.1926 27.9216 15.572C27.9216 22.1971 22.5503 27.5684 15.9252 27.5684C12.317 27.5684 9.08636 25.9727 6.88867 23.4544C9.01868 26.7848 12.748 28.9932 16.9937 28.9932C23.6224 28.9932 28.9902 23.6218 28.9902 16.9967Z" fill="#4B9B7C"></path><text x="50%" y="50%" font-size="11px" font-weight="500" dominant-baseline="central" text-anchor="middle" fill="white" font-family="Spoqa Han Sans Neo">3</text></svg>
+    </a>
+    <text x="50%" y="56" dominant-baseline="central" text-anchor="middle" class="sc-gXRojI bXtZiB">시제품 개발</text></g></svg><svg x="251.25" y="0" width="83.75" height="70"><path d="
       M0,0
       h63.75
       a20,20 0 0 1 20,20
