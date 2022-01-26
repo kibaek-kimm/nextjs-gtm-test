@@ -8,8 +8,8 @@ export default function Home() {
       </Head>
 
       <main>
-        <a data-test="테스트버튼1">GTM data-attributes 테스트1</a>
-        <a data-test="테스트버튼2">GTM data-attributes 테스트2</a>
+        <a href="#" data-test="테스트버튼1">GTM data-attributes 테스트1</a>
+        <a href="#" data-test="테스트버튼2">GTM data-attributes 테스트2</a>
       </main>
     </div>
   )
