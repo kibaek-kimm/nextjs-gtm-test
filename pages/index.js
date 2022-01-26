@@ -12,10 +12,10 @@ export default function Home() {
         setAsyncButton((
           <>
             <div style={{ marginBottom: "10px" }}>
-              <a href="#" data-test="테스트버튼3">GTM data-attributes 테스트3</a>
+              <a href="#" data-fnb-journey="테스트버튼3">GTM data-attributes 테스트3</a>
             </div>
             <div style={{ marginBottom: "10px" }}>
-              <a href="#" data-test="테스트버튼4">GTM data-attributes 테스트4</a>
+              <a href="#" data-fnb-journey="테스트버튼4">GTM data-attributes 테스트4</a>
             </div>
           </>
         ))
@@ -37,10 +37,10 @@ export default function Home() {
 
       <main>
         <div style={{ marginBottom: "10px" }}>
-          <a href="#" data-test="테스트버튼1">GTM data-attributes 테스트1</a>
+          <a href="#" data-fnb-journey="테스트버튼1">GTM data-attributes 테스트1</a>
         </div>
         <div style={{ marginBottom: "10px" }}>
-          <a href="#" data-test="테스트버튼2">GTM data-attributes 테스트2</a>
+          <a href="#" data-fnb-journey="테스트버튼2">GTM data-attributes 테스트2</a>
         </div>
         {asyncButton}
       </main>
