@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import { useEffect, useState } from 'react';
+import Map from "../components/Map"
 
 export default function Home() {
   const [asyncButton, setAsyncButton] = useState();
@@ -36,6 +37,9 @@ export default function Home() {
       </Head>
 
       <main>
+        <div style={{ width: "600px",marginBottom: "30px" }}>
+          <Map />
+        </div>
         <div style={{ marginBottom: "10px" }}>
           <a href="#" data-fnb-journey="테스트버튼1">GTM data-attributes 테스트1</a>
         </div>
